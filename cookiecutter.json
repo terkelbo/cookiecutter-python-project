@@ -1,0 +1,9 @@
+{
+  "full_name": "Terkel Bo Olsen",
+  "email": "terkel_olsen@hotmail.com",
+  "project_name": "Python Standard Project",
+  "project_directory_name": "{{ cookiecutter.project_name.lower().replace(' ', '-').replace('_', '-') }}",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "Standard project for how I like to structure my Python projects.",
+  "python_version": "3.10"
+}
