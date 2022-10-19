@@ -6,7 +6,8 @@ Further it includes a VS Code settings file which is helpful when working on thi
 
 To set up a new project run the following command:
 
-`cookiecutter XXX``
+1. `cookiecutter git@github.com:terkelbo/cookiecutter-python-project.git` (if using ssh) 
+2. `cookiecutter https://github.com/terkelbo/cookiecutter-python-project.git` (if using https)
 
 After running the command you will be prompted to enter the following values:
 
